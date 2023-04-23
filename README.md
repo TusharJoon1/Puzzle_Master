@@ -5,7 +5,7 @@ To access all of the features on the website, you will need to register using yo
 
 By utilizing the note feature, you can receive assistance from other users on the site who may be able to help you overcome challenges.
 
-![Screenshot (279)](https://user-images.githubusercontent.com/131438804/233860767-a5d80173-2150-4d43-8545-e1e0a2565f75.png)
+![Screenshot (280)](https://user-images.githubusercontent.com/131438804/233860947-49122c15-4ae9-418e-a793-7fb686d9945b.png)
 
 
 To run all these files first install some basics packages
