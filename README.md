@@ -31,3 +31,12 @@ This puzzle is related to the Tower of Hanoi problem. In this puzzle, you are gi
 * A note-taking feature to keep track of your daily learning and problems you encounter.
 * The ability to receive assistance from other users on the site.
 
+ ## Soft skill assessed are:
+* Problem-solving: All three puzzles require the player to think critically and logically in order to solve them. This can help develop problem-solving skills, which are useful in many areas of life.
+
+* Time management: The time limit of 30 minutes can help players develop time management skills by forcing them to work efficiently and manage their time effectively in order to complete the puzzle within the given time frame.
+
+* Communication: The ability to receive assistance from other users on the site requires effective communication skills in order to properly convey the problem and receive useful feedback.
+
+* Collaboration: The note-taking feature can encourage collaboration and team problem-solving, as players can share their notes with other users and work together to find solutions.
+
